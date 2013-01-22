@@ -395,7 +395,7 @@ class PageController {
     }
     public function socialContainer() {
         return '<div class="socialContainer">
-        <div class="footer-content col-option4 left">
+        <div class="footer-content col-option3 left">
         <div class="footer-column recentComments">
         <h4>Latest Comments</h4>    
         <ul id="recentComments" class="socialColumn">
@@ -405,12 +405,6 @@ class PageController {
         <div class="footer-column lastestfacebookPost">
         <h4>Latest Facebook Feed</h4>
         <ul id="facebookPosts" class="socialColumn">
-        <li>Loading...</li>
-        </ul>
-        </div>
-        <div class="footer-column latestBuzz">
-        <h4>Latest Buzz</h4>
-        <ul id="buzz" class="socialColumn">
         <li>Loading...</li>
         </ul>
         </div>

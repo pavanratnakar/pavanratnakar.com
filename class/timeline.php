@@ -1,14 +1,11 @@
 <?php
 include_once('db.php');
 include_once ('functions.php');
-class Timeline
-{
-	public function __construct()
-	{
+class Timeline {
+	public function __construct() {
 		$db=new DB();
 	}
-	public function showTimeLine()
-	{
+	public function showTimeLine() {
 		$dates = array();
 		$sql = mysql_query("SELECT * FROM ".TIMELINE_TABLE." ORDER BY date_event ASC");
 		while($row=mysql_fetch_assoc($sql))

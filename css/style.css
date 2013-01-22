@@ -206,7 +206,7 @@ div#galleryHeader div#slide-holder div#slide-controls {background: url("../image
     white-space: -hp-pre-wrap;  /* HP Printers */
 word-wrap: break-word;      /* IE 5+ */}
 #big-footer .socialColumn .postTime{font-size:0.9em;color: #DDDDDD}
-#big-footer h4{padding:5px 0 ;border-bottom: 1px dashed #5A5A5A;}
+#big-footer h4{padding:5px 0 ;border-bottom: 1px dashed #5A5A5A;text-align:center;}
 #big-footer a.button {
     background-attachment: scroll;
     background-color: rgba(0, 0, 0, 0.3);
@@ -223,13 +223,13 @@ word-wrap: break-word;      /* IE 5+ */}
     -khtml-border-radius:10px 10px 10px 10px;
 }
 #big-footer a.button:hover{color:#ffffff !important;}
-#big-footer  .iconsSprite {margin-top:3px;opacity:0.5;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);}
+#big-footer .iconsSprite {margin-top:3px;opacity:0.5;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);}
 #big-footer .contactInfo{padding:10px;}
 #big-footer .postContainer{padding:0 0 0 23px;}
 #big-footer .col-option4 {padding:5px;}
 #big-footer .col-option1 .footer-column {margin-bottom: 30px;width: 900px;}
 #big-footer .col-option2 .footer-column {float: left;margin: 0 15px 30px;width: 450px;}
-#big-footer .col-option3 .footer-column {float: left;margin: 0 20px 30px;width: 260px;}
+#big-footer .col-option3 .footer-column {float: left;margin: 0 13px 30px;width: 260px;}
 #big-footer .col-option4 .footer-column, .col-option4-3 .footer-column, .col-option43- .footer-column {float: left;margin: 0 10px 10px;width: 192px;}
 #big-footer .col-option5 .footer-column, .col-option5-4 .footer-column, .col-option54- .footer-column {float: left;margin: 0 15px 30px;width: 162px;}
 #big-footer .social-icons li {display: inline;}
