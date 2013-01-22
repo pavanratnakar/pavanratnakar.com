@@ -87,8 +87,8 @@ RewriteRule ^.* - [F,L]
 
 #www redirect
 RewriteEngine On
-RewriteCond %{HTTP_HOST} !^www\.pavanratnakar\.com$ [NC]
-RewriteRule ^(.*)$ http://www.pavanratnakar.com/$1 [L,R=301]
+#RewriteCond %{HTTP_HOST} !^www\.pavanratnakar\.com$ [NC]
+#RewriteRule ^(.*)$ http://www.pavanratnakar.com/$1 [L,R=301]
 
 RewriteRule ^home index.php [NC]
 RewriteRule ^aboutme aboutme.php [NC]
