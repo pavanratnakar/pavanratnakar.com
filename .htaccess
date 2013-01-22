@@ -109,6 +109,8 @@ RewriteRule ^tutorial tutorial.php [NC]
 RewriteRule ^movie/([a-zA-Z0-9_-]+)$ movie.php?movieid=$1 [NC]
 RewriteRule ^movie movie.php [NC]
 RewriteRule ^sitemap$ sitemap.php [NC]
+RewriteRule ^hacks$ hacks.php [NC]
+RewriteRule ^hacks/$ hacks.php [NC]
 RewriteRule ^404 404.php [NC]
 
 ErrorDocument 404 /404.php

@@ -154,4 +154,15 @@
 		<description>Pavan Ratnakar Applications Sitemap.</description>
 		<chat></chat>
 	</page>
+	<page>
+		<id>14</id>
+		<menu>Hacks</menu>
+		<name>Hacks</name>
+		<link>hacks</link>
+		<title>Hacks</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Hacks, Pavan Ratnakar Hacks, Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D</keywords>
+		<description>Pavan Ratnakar Applications Hacks.</description>
+		<chat>12</chat>
+	</page>
 </pages>
