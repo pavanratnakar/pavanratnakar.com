@@ -7,7 +7,6 @@ include_once ('../class/functions.php');
 include_once ('../class/contact.php');
 include_once ('../class/facebook.php');
 include_once ('../class/tweet.php');
-include_once ('../class/buzz.php');
 include_once ('../class/facebookLogin.php');
 include_once ('../class/movie.php');
 $function=new Functions();
