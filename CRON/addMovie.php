@@ -242,6 +242,26 @@ $reponse=$movie->addMovieToDatabase('97020');
 $reponse=$movie->addMovieToDatabase('77174');
 $reponse=$movie->addMovieToDatabase('82990');
 $reponse=$movie->addMovieToDatabase('122857');
+$reponse=$movie->addMovieToDatabase('91314');
+$reponse=$movie->addMovieToDatabase('127585');
+$reponse=$movie->addMovieToDatabase('100402');
+$reponse=$movie->addMovieToDatabase('241254');
+$reponse=$movie->addMovieToDatabase('118340');
+$reponse=$movie->addMovieToDatabase('82702');
+$reponse=$movie->addMovieToDatabase('222935');
+$reponse=$movie->addMovieToDatabase('198663');
+$reponse=$movie->addMovieToDatabase('96721');
+$reponse=$movie->addMovieToDatabase('191903');
+$reponse=$movie->addMovieToDatabase('109424');
+$reponse=$movie->addMovieToDatabase('49047');
+$reponse=$movie->addMovieToDatabase('137113');
+$reponse=$movie->addMovieToDatabase('137106');
+$reponse=$movie->addMovieToDatabase('99861');
+$reponse=$movie->addMovieToDatabase('497');
+$reponse=$movie->addMovieToDatabase('193756');
+$reponse=$movie->addMovieToDatabase('209112');
+$reponse=$movie->addMovieToDatabase('157336');
+
 $mail=new MailClass();
 if($reponse)
 {

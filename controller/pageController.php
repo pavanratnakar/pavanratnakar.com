@@ -177,6 +177,15 @@ class PageController {
         <meta property="og:site_name" content="Pavan Ratnakar Applications" />
         <meta property="og:url" content="'.$this->meta->getMetaURL().'"/>
         <meta property="fb:admins" content="100000417819011" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@pavanratnakar" />
+        <meta name="twitter:creator" content="@pavanratnakar" />
+        <meta name="twitter:title" content="'.$this->meta->getTitle().'" />
+        <meta name="twitter:description" content="'.$this->meta->getDescription().'" />
+        <meta name="twitter:image:src" content="'.$this->meta->getImage().'" />
+        <meta itemprop="name" content="'.$this->meta->getTitle().'" />
+        <meta itemprop="description" content="'.$this->meta->getDescription().'" />
+        <meta itemprop="image" content="'.$this->meta->getImage().'" />
         <title>'.$this->meta->getTitle().'</title>
         <link type="text/css" rel="stylesheet" media="all" href="'.Minify_getUri('main_css').'"/>';
     }

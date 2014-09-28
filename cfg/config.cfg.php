@@ -15,17 +15,10 @@ define('DB_USERNAME','pavanrat_pavan');
 define('DB_PASSWORD','28pepsy1998');
 define('DB_DATABASE','pavanrat_main');
 */
-// define('DB_SERVER','localhost');
-// define('DB_USERNAME','pavanrat_pavan');
-// define('DB_PASSWORD','28pepsy1998');
-// define('DB_DATABASE','pavanrat_main');
-
 define('DB_SERVER','localhost');
-define('DB_USERNAME','root');
-define('DB_PASSWORD','');
-define('DB_DATABASE','pavanratnakar.com');
-
-
+define('DB_USERNAME','pavanrat_pavan');
+define('DB_PASSWORD','28pepsy1998');
+define('DB_DATABASE','pavanrat_main');
 define('USER_TABLE','users');
 define('TIMELINE_TABLE','timeline');
 define('SUGGESTION_TABLE','suggestions');

@@ -19,6 +19,18 @@ echo $pageController->printHeader();
                         <div class="siteCommonInnterContainer left"> 
                             <ul>
                                 <li>
+                                    <a href="http://www.pavanratnakar.com/hacks/color-palette-picker" title="Color Palette Picker">Color Palette Picker</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.pavanratnakar.com/hacks/flickr-gallery-yui" title="Flickr Gallery YUI">Flickr Gallery YUI</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.pavanratnakar.com/hacks/flickrlove" title="Flickr Love - Migrate albums from Facebook to Flickr">Flickr Love - Migrate albums from Facebook to Flickr</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.pavanratnakar.com/hacks/walkthrough" title="YUI based walkthrough">YUI based walkthrough</a>
+                                </li>
+                                <li>
                                     <a href="http://www.pavanratnakar.com/hacks/endeavor" title="Endeavor hack">Endeavor hack</a>
                                 </li>
                                 <li>
@@ -29,6 +41,12 @@ echo $pageController->printHeader();
                                 </li>
                                 <li>
                                     <a href="http://www.pavanratnakar.com/hacks/YEP_2012" title="Yahoo! Year End Party 2012">Yahoo! Year End Party 2012</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.pavanratnakar.com/hacks/gangnam" title="Gangnam dancing using CSS">Gangnam dancing using CSS</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.pavanratnakar.com/hacks/threeyearsyahoo" title="Three Years at Yahoo">Three Years at Yahoo</a>
                                 </li>
                             </ul>
                         </div>

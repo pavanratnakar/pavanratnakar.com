@@ -1,5 +1,5 @@
 <?php
-define("API_KEY",'db631f250372d05443e75ff7119b45c6');
+define("API_KEY",'40677518dfbe84497b9d15dbd9df1464');
 include_once ('db.php');
 include_once ('functions.php');
 include_once ('TMDb.php');
@@ -130,6 +130,7 @@ class Movie
 		$function=new Functions();
 		$tmdb = new TMDb(API_KEY);
 		$json = json_decode($tmdb->getMovie($tmdbId));
+		print_r($json);
 		$response = array();
 		$i=0;
 		foreach($json as $movie)
