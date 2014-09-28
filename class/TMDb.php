@@ -821,19 +821,14 @@ class TMDb
 				curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'HEAD');
 				curl_setopt($ch, CURLOPT_NOBODY, 1);
 			}
-
+			echo $url;
 			curl_setopt($ch, CURLOPT_URL, $url);
-			echo $headers;
-			// curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-			// curl_setopt($ch, CURLOPT_HEADER, 1);
-			// curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
-curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+			curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+			curl_setopt($ch, CURLOPT_HEADER, 1);
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 
 			$response = curl_exec($ch);
-print_r(curl_getinfo($ch));
-print_r(curl_error());
+
 			$header_size = curl_getinfo($ch, CURLINFO_HEADER_SIZE);
 			$header = substr($response, 0, $header_size);
 			$body = substr($response, $header_size);
