@@ -134,32 +134,34 @@ class Movie
         $tmdbId= $function->dbCheckValues($tmdbId);
         $language= $function->dbCheckValues($movie['spoken_languages'][0]['name']);
         $name = $function->dbCheckValues($movie['title']);
-        $tagline = $function->dbCheckValues($movie['tagline']);
-        $overview = $function->dbCheckValues($movie['overview']);
-        $rating = $function->dbCheckValues($movie['release_date']);
-        $homepage = $function->dbCheckValues($movie['homepage']);
-        $release = $function->dbCheckValues($movie['release_date']);
-        $trailers = $tmdb->getMovieTrailers($tmdbId);
-        if ($trailers['youtube'] && $trailers['youtube'][0]) {
-            $trailer = 'http://www.youtube.com/watch?v='.$trailers['youtube'][0]['source'];
-        }
-        $sql=mysql_query("SELECT id FROM ".MOVIE_TABLE." WHERE tmdbId='$tmdbId'");
-        if(mysql_num_rows($sql)==0)
-        {
-            $result=mysql_query("INSERT INTO ".MOVIE_TABLE."(tmdbId,language,movie_name,tagline,overview,rating,homepage,trailer,movie_release) VALUES('$tmdbId','$language','$name','$tagline','$overview','$rating','$homepage','$trailer','$release')");
-        }
-        else
-        {
-            $result=mysql_query("UPDATE ".MOVIE_TABLE." SET movie_name='$name',tagline='$tagline',overview='$overview',rating='$rating',homepage='$homepage',trailer='$trailer',movie_release='$release',language='$language' WHERE tmdbId='$tmdbId'");
-        }
-        if($result)
-        {
-            $this->addImagesToDatabase($tmdbId);
-            return TRUE;
-        }
-        else
-        {
-            return FALSE;
+        if ($name) {
+            $tagline = $function->dbCheckValues($movie['tagline']);
+            $overview = $function->dbCheckValues($movie['overview']);
+            $rating = $function->dbCheckValues($movie['vote_average']);
+            $homepage = $function->dbCheckValues($movie['homepage']);
+            $release = $function->dbCheckValues($movie['release_date']);
+            $trailers = $tmdb->getMovieTrailers($tmdbId);
+            if ($trailers['youtube'] && $trailers['youtube'][0]) {
+                $trailer = 'http://www.youtube.com/watch?v='.$trailers['youtube'][0]['source'];
+            }
+            $sql=mysql_query("SELECT id FROM ".MOVIE_TABLE." WHERE tmdbId='$tmdbId'");
+            if(mysql_num_rows($sql)==0)
+            {
+                $result=mysql_query("INSERT INTO ".MOVIE_TABLE."(tmdbId,language,movie_name,tagline,overview,rating,homepage,trailer,movie_release) VALUES('$tmdbId','$language','$name','$tagline','$overview','$rating','$homepage','$trailer','$release')");
+            }
+            else
+            {
+                $result=mysql_query("UPDATE ".MOVIE_TABLE." SET movie_name='$name',tagline='$tagline',overview='$overview',rating='$rating',homepage='$homepage',trailer='$trailer',movie_release='$release',language='$language' WHERE tmdbId='$tmdbId'");
+            }
+            if($result)
+            {
+                $this->addImagesToDatabase($tmdbId);
+                return TRUE;
+            }
+            else
+            {
+                return FALSE;
+            }
         }
     }
     public function addImagesToDatabase($tmdbId)
@@ -172,7 +174,6 @@ class Movie
         if ($json && $json['posters']) {
             foreach($json['posters'] as $image)
             {
-                print_r($image);
                 $tmdbId= $function->dbCheckValues($tmdbId);
                 $file_path = $function->dbCheckValues($image['file_path']);
                 $image_id = $function->dbCheckValues($image['id']);

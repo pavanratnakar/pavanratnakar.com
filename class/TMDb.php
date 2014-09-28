@@ -821,7 +821,6 @@ class TMDb
 				curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'HEAD');
 				curl_setopt($ch, CURLOPT_NOBODY, 1);
 			}
-			echo $url;
 			curl_setopt($ch, CURLOPT_URL, $url);
 			curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 			curl_setopt($ch, CURLOPT_HEADER, 1);
