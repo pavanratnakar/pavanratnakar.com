@@ -1,0 +1,44 @@
+/* slider */
+.tab a.open {background-position: 0 -62px;height: 20px;}
+.tab a.close {background-position: 0 -18px;height: 20px;}
+.tab a:hover.open {background-position: 0 -83px; height: 20px;}
+.tab a:hover.close {background-position: 0 -39px;height: 20px;}
+/* slider */
+/* editableToolbar */
+.editableToolbar .edit {background-position: 0 -188px;width: 16px; height: 16px;}
+.editableToolbar .save {background-position: 0 0;width: 16px; height: 16px;}
+.editableToolbar .cancel {background-position: 0 -170px;width: 16px; height: 16px;}
+/* editableToolbar */
+/* footer */
+#big-footer #facebookPosts .iconsSprite {background-position: 0 -220px; width: 14px; height: 14px;}
+#big-footer #buzz .iconsSprite { background-position: 0 -206px; width: 12px; height: 12px;}
+#big-footer #recentComments .iconsSprite {background-position: 0 -298px; width: 18px; height: 12px;}
+#big-footer #tweets .iconsSprite {background-position: 0 -312px; width: 16px; height: 16px;}
+#big-footer .contact-widget .tel .iconsSprite{background-position: 0 -276px; width: 20px; height: 20px; }
+#big-footer .contact-widget .email .iconsSprite{background-position: 0 -236px;width: 20px; height: 20px; }
+/* footer */
+/* resume */
+#resumeContainer dt .iconsSprite{background-position: 0 -120px;width: 12px; height: 12px; left:0;position:absolute;top:11px;width:12px;}
+#resumeContainer dt.opened .iconsSprite{background-position: 0 -106px;width: 12px; height: 12px;}
+/* resume */
+/* movie */
+#movieDescriptionContainer .target{ background-position: 0 -330px; width: 16px; height: 16px; } 
+#movieDescriptionContainer .world{ background-position: 0 -366px; width: 16px; height: 16px; } 
+#movieDescriptionContainer .video{background-position: 0 -348px; width: 16px; height: 16px; }
+/* movie */
+/* timeline */
+.eventList li.news span.iconsSprite {background-position: 0 -258px;width: 16px; height: 16px;}
+.eventList li.image span.iconsSprite {background-position: 0 -134px;width: 16px; height: 16px;}
+.eventList li.milestone span.iconsSprite {background-position: 0 -152px;width: 16px; height: 16px; }
+/* timeline */
+/* social */
+#facebookIcon{ background-position: 0 0; width: 50px; height: 50px;display:block;} 
+#flickrIcon{background-position: 0 -52px; width: 50px; height: 50px;display:block;} 
+#googleIcon{background-position: 0 -104px; width: 50px; height: 50px;display:block;} 
+#inIcon{background-position: 0 -156px; width: 50px; height: 50px;display:block;} 
+#orkutIcon{background-position: 0 -208px; width: 50px; height: 50px;display:block;} 
+#picassaIcon{background-position: 0 -260px; width: 50px; height: 50px;display:block;} 
+#twitterIcon{background-position: 0 -312px; width: 50px; height: 50px;display:block;} 
+#yahooBuzz{background-position: 0 -364px; width: 50px; height: 50px;display:block;}
+#yahooIcon{background-position: 0 -416px; width: 50px; height: 50px;display:block;} 
+/* social */

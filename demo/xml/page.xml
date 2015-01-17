@@ -1,0 +1,26 @@
+<?xml version='1.0' standalone='yes'?>
+<pages>
+	<page>
+		<id>1</id>
+		<menu>Home</menu>
+		<name>Home</name>
+		<link>demo/timeline</link>
+		<title>Facebook timeline design using jQuery, PHP, mySQLi</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Facebook, Timeline, jQuery, PHP, MYSQL, MYSQLI, Pavan Ratnakar, Pavan Ratnkar Applications, Pavan</keywords>
+		<description>Facebook timeline design using jQuery, PHP, mySQLi</description>
+        <content>
+            <![CDATA[
+                <li>Very basic timeline design. Using PHP and mySQLi for basic CRUD operations. Using jquery.masonry for the UI design.</li>
+                <li>Credits to <a href="http://www.facebook.com/srinivas.tamada" title="Srinivas Tamada" target="_blank">Srinivas Tamada</a>. Took idea from his blog.</li>
+                <li>Working on date based Timeline similar to Facebook.</li>
+                <li>Not checked browser compatiblity. Will do that soon.</li>
+                <li>Currently adding new message appears at the top. Working on adding in any slot based on time.</li>
+                <li>Will be uploading the demo files tonight. In mean time you can have a look at the JS code <a href="http://www.pavanratnakar.com/demo/timeline/js/timeline.js" tite="timeline.js" target="_blank">http://www.pavanratnakar.com/demo/timeline/js/timeline.js</a></li>
+                <li>CSS code <a href="http://www.pavanratnakar.com/demo/timeline/css/timeline.css" tite="timeline.css" target="_blank">http://www.pavanratnakar.com/demo/timeline/css/timeline.css</a></li>
+                <li>Lots of bugs. It was just few hours of coding thanks to <a href="http://www.facebook.com/srinivas.tamada" title="Srinivas Tamada" target="_blank">Srinivas Tamada</a>. Will solve it as and when possible :)</li>
+                <li>Suggestions are welcome.</li>
+             ]]>
+        </content>
+    </page>
+</pages>

@@ -1,0 +1,168 @@
+<?xml version='1.0' standalone='yes'?>
+<pages>
+	<page>
+		<id>0</id>
+		<menu>Home</menu>
+		<name>Home</name>
+		<link>home</link>
+		<title>Home</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar homepage, homepage, Pavan</keywords>
+		<description>Homepage of Pavan Ratnakar Applications. Gamer, Web Developer, Movie Buff.</description>
+		<chat></chat>
+	</page>
+	<page>
+		<id>1</id>
+		<menu>About</menu>
+		<name>ABOUT ME</name>
+		<link>aboutme</link>
+		<title>About</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, About Pavan Ratnakar, Pavan Ratnakar passion</keywords>
+		<description>About Me section of Pavan Ratnakar Applications. Info about Pavan Ratnakar.</description>
+		<chat>0</chat>
+	</page>
+	<page>
+		<id>2</id>
+		<menu>Gadgets</menu>
+		<name>GADGET GURU</name>
+		<link>gadget</link>
+		<title>My Gadget Section</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar Gadgets, Gadgets, Gadgetguru</keywords>
+		<description>Pavan Ratnakar Applications Gadget Section. Latest gadget updates.</description>
+		<chat>1</chat>
+	</page>
+	<page>
+		<id>3</id>
+		<menu>My Movies</menu>
+		<name>MY MOVIES</name>
+		<link>movie</link>
+		<title>My Movies</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Movies, Pavan Ratnakar Movies, rockpepsy, 2D, Pavan</keywords>
+		<description>Pavan Ratnakar Applications Movie Section. Movie Buff's Movie Choices.</description>
+		<chat>2</chat>
+	</page>
+	<page>
+		<id>4</id>
+		<menu>TimeLine</menu>
+		<name>TIME LINE</name>
+		<link>timeline</link>
+		<title>My Time Line</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar homepage, Pavan Ratnakar Timeline, Timeline</keywords>
+		<description>Pavan Ratnakar Applications Timeline Section. Have a look at complete lifecycle of Pavan Ratnakar.</description>
+		<chat>3</chat>
+	</page>
+	<page>
+		<id>5</id>
+		<menu>Gallery</menu>
+		<name>MY GALLERY</name>
+		<link>gallery</link>
+		<title>My Gallery Section</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar homepage, Pavan Ratnakar Gallery.</keywords>
+		<description>Pavan Ratnakar Applications Gallery Section. Gallery of his closest ones.</description>
+		<chat>4</chat>
+	</page>
+	<page>
+		<id>6</id>
+		<menu>Resume</menu>
+		<name>RESUME</name>
+		<link>resume</link>
+		<title>UI | PHP Web Developer Resume</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnkar Applications, UI developer, node.js developer, PHP developer, Front end developer, Front end developer resume, Front End Web Developer, Front End Web Developer Resume, UI developer resume, PHP developer resume, PHP web developer, MySQL, MySQL developer, YUI, Jquery, Javascript, AJAX, web developer, UI Developer, Pavan Ratnakar Resume</keywords>
+		<description>Resume for UI / XAMP PHP 5 web developer that works with YUI, Jquery, Backbone, Bootstrap, node.js, PHP, MySQL, Javascripts, Web Analytics, AJAX, and other open source technologies. Skilled in Rich UI, Search Engine Optimization, Accessibility and Social Media Marketing.</description>
+		<chat></chat>
+	</page>
+	<page>
+		<id>7</id>
+		<menu>Contact Me</menu>
+		<name>CONTACT ME</name>
+		<link>contactme</link>
+		<title>Contact Me</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar homepage, homepage, Pavan, Pavan Ratnakar contact me, Contact me</keywords>
+		<description>Pavan Ratnakar Applications Contact me Section. Reach out to Pavan Ratnakar.</description>
+		<chat></chat>
+	</page>
+	<page>
+		<id>8</id>
+		<menu></menu>
+		<name>PROFILE UPDATE</name>
+		<link>profile</link>
+		<title>Profile Update</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar homepage, homepage, Pavan</keywords>
+		<description>Pavan Ratnakar Applications profile updated section.</description>
+		<chat></chat>
+	</page>
+	<page>
+		<id>9</id>
+		<menu></menu>
+		<name>PASSWORD RESET</name>
+		<link>passwordreset</link>
+		<title>Password Reset</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar homepage, homepage, Pavan</keywords>
+		<description>Pavan Ratnakar Applications password reset section.</description>
+		<chat></chat>
+	</page>
+	<page>
+		<id>10</id>
+		<menu></menu>
+		<name>BROWSER COMPATIBILITY</name>
+		<link>compatiblity</link>
+		<title>Browser Compatibility</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar homepage, homepage, Pavan</keywords>
+		<description>Pavan Ratnakar Applications Browser Compatiblity.</description>
+		<chat></chat>
+	</page>
+	<page>
+		<id>11</id>
+		<menu></menu>
+		<name>PAGE NOT FOUND</name>
+		<link>404</link>
+		<title>Page not found</title>
+		<author>Pavan Ratnakar</author>
+		<keywords></keywords>
+		<description></description>
+		<chat></chat>
+	</page>	
+	<page>
+		<id>12</id>
+		<menu>Tutorials</menu>
+		<name>Tutorial</name>
+		<link>tutorial</link>
+		<title>Tutorials</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Pavan Ratnakar Tutorials, Pavan Ratnkar Applications, tutorial, php, mysql, html, css, javascript, jquery</keywords>
+		<description>Pavan Ratnakar Applications Tutorials.</description>
+		<chat>11</chat>
+	</page>
+	<page>
+		<id>13</id>
+		<menu>Sitemap</menu>
+		<name>Sitemap</name>
+		<link>sitemap</link>
+		<title>Sitemap</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Sitemap, Pavan Ratnakar Sitemap, Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D, Pavan Ratnakar homepage, homepage, Pavan</keywords>
+		<description>Pavan Ratnakar Applications Sitemap.</description>
+		<chat></chat>
+	</page>
+	<page>
+		<id>14</id>
+		<menu>Hacks</menu>
+		<name>Hacks</name>
+		<link>hacks</link>
+		<title>Hacks</title>
+		<author>Pavan Ratnakar</author>
+		<keywords>Hacks, Pavan Ratnakar Hacks, Pavan Ratnakar, Pavan Ratnkar Applications, Pepsy, Sonal Ratnakar, Gayathri Ratnakar, V R Ratnakar, rockpepsy, 2D</keywords>
+		<description>Pavan Ratnakar Applications Hacks.</description>
+		<chat>12</chat>
+	</page>
+</pages>

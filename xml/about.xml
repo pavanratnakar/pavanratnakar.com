@@ -1,0 +1,83 @@
+<?xml version='1.0' standalone='yes'?>
+<aboutme>
+	<about>
+		<id>1</id>
+		<title>Hobbies</title>
+		<description>Computer Gaming.</description>
+		<description>Watching movies and TV-series.</description>
+		<description>Surfing Internet.</description>
+		<description>Gadgets.</description>
+		<description>Social Networking.</description>
+		<description>Computer, computer &amp; computers :).</description>
+		<url>
+			<description></description>
+			<link></link>
+		</url>
+	</about>
+	<about>
+		<id>2</id>
+		<title>Edcuation</title>
+		<description>Completed Computer Science Engineering from ICFAITECH Hyderabad.</description>
+		<description>Completed Intermediate second year from Narayana Junior Collage, Hyderabad.</description>
+		<description>Completed Intermediate first year from Gautami Junior Collage, Hyderabad.</description>
+		<description>Studied from 7th class to 10th class in Niraj Public School, Hyderabad.</description>
+		<url>
+			<description>For more details, please visit my</description>
+			<link>Resume</link>
+		</url>
+	</about>
+	<about>
+		<id>3</id>
+		<title>Family</title>
+		<description>Dad :- V.R Ratnakar</description>
+		<description>Mom :- Gayathri Ratnakar</description>
+		<description>Wife :- Sonal Ratnakar</description>
+		<description>Brother :- Pepsy</description>
+		<url>
+			<description>To view them, please visit my</description>
+			<link>Gallery</link>
+		</url>
+	</about>
+	<about>
+		<id>4</id>
+		<title>Career</title>
+		<description>
+			Working as Senior Software Engineer at MindTree Limited, Bangalore.
+		</description>
+		<description>
+			Worked as QA/Game Developer at FX Labs, Hyderabad.
+		</description>
+		<url>
+			<description>For more details, please visit my</description>
+			<link>Resume</link>
+		</url>
+	</about>
+	<about>
+		<id>5</id>
+		<title>Achievements</title>
+		<description>
+			Recevied 10/10 Award at MindTree Limited, Bangalore.
+		</description>
+		<description>
+			Recevied Team Spot Award at MindTree Limited, Bangalore.
+		</description>
+		<description>
+			Represented Hyderabad at All India Vixture Gaming competition.
+		</description>
+		<url>
+			<description>For more details, please visit my</description>
+			<link>Resume</link>
+		</url>
+	</about>
+	<about>
+		<id>6</id>
+		<title>Gaming</title>
+		<description>
+			My passion &amp; my Love. Currently retired.
+		</description>
+		<description>
+			Loved and would continue loving Counter Strike 1.6.
+		</description>
+		<url></url>
+	</about>
+</aboutme>

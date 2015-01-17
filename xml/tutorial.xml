@@ -1,0 +1,56 @@
+<?xml version='1.0' standalone='yes'?>
+<tutorials>
+	<category>
+		<id>1</id>
+		<query>php</query>
+		<name>PHP</name>
+		<subtutorials>
+			<tutorial>
+				<id>1</id>
+				<name>Session Management : Cookie-based Sessions</name>
+				<query>session_management_cookie</query>
+				<author>Pavan Ratnakar</author>
+				<description>Session management using cookie in php.</description>
+				<keyword>session, cookie</keyword>
+			</tutorial>
+		</subtutorials>
+	</category>
+	<category>
+		<id>2</id>
+		<query>javascript</query>
+		<name>Javascript / jQuery</name>
+		<subtutorials>
+			<tutorial>
+				<id>1</id>
+				<name>Facebook timeline design using jQuery, PHP, mySQLi</name>
+				<author>Pavan Ratnakar</author>
+				<description>Facebook timeline design using jQuery, PHP, mySQLi</description>
+				<keyword>jquery, timeline, php, mysqli, timeline, facebook</keyword>
+			</tutorial>
+		</subtutorials>
+	</category>
+	<category>
+		<id>3</id>
+		<query>facebook</query>
+		<name>Facebook</name>
+		<subtutorials>
+			<tutorial>
+				<id>0</id>
+				<name>0</name>
+				<query></query>
+			</tutorial>
+		</subtutorials>
+	</category>
+	<category>
+		<id>4</id>
+		<query>html</query>
+		<name>HTML / CSS</name>
+		<subtutorials>
+			<tutorial>
+				<id>0</id>
+				<name>0</name>
+				<query></query>
+			</tutorial>
+		</subtutorials>
+	</category>
+</tutorials>

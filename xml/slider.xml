@@ -1,0 +1,181 @@
+<?xml version='1.0' standalone='yes'?>
+<sliders>
+	<home>
+		<first>
+			<slider>
+				<id>1</id>
+				<title>Promotion|Welcome</title>
+				<alt>Welcome to my redesigned Website. Do share your comments about the new design &amp; interface.</alt>
+				<img>home/2d_2.jpg</img>
+				<url>
+					<external>0</external>
+					<link>contactme</link>
+				</url>
+			</slider>
+			<slider>
+				<id>2</id>
+				<title>Promotion|Welcome</title>
+				<alt>Welcome to my redesigned Website. Do share your comments about the new design &amp; interface.</alt>
+				<img>home/2d_1.jpg</img>
+				<url>
+					<external>0</external>
+					<link>contactme</link>
+				</url>
+			</slider>
+			<slider>
+				<id>3</id>
+				<title>Promotion|Welcome</title>
+				<alt>Welcome to my redesigned Website. Do share your comments about the new design &amp; interface.</alt>
+				<img>home/2d_1.jpg</img>
+				<url>
+					<external>0</external>
+					<link>contactme</link>
+				</url>
+			</slider>
+			<slider>
+				<id>4</id>
+				<title>Promotion|Welcome</title>
+				<alt>Welcome to my redesigned Website. Do share your comments about the new design &amp; interface.</alt>
+				<img>home/redesign.jpg</img>
+				<url>
+					<external>0</external>
+					<link>contactme</link>
+				</url>
+			</slider>
+		</first>
+		<promotion>
+			<slider>
+				<id>1</id>
+				<title>Promotion|Gadget</title>
+				<alt>Please visit the all new Gadget section.</alt>
+				<img>home/gadget.jpg</img>
+				<url>
+					<external>0</external>
+					<link>gadget</link>
+				</url>
+			</slider>
+			<slider>
+				<id>2</id>
+				<title>Promotion|Resume</title>
+				<alt>Please visit the all new Resume section.</alt>
+				<img>home/resume.jpg</img>
+				<url>
+					<external>0</external>
+					<link>resume</link>
+				</url>
+			</slider>
+			<slider>
+				<id>3</id>
+				<title>Promotion|Social</title>
+				<alt>Site is now integrated with popular Social networks. Do share your views about integration &amp; further enhancements.</alt>
+				<img>home/social.jpg</img>
+				<url>
+					<external>0</external>
+					<link>contactme</link>
+				</url>
+			</slider>
+			<slider>
+				<id>4</id>
+				<title>Promotion|Timeline</title>
+				<alt>Please visit the all new Timeline section.</alt>
+				<img>home/timeline.jpg</img>
+				<url>
+					<external>0</external>
+					<link>timeline</link>
+				</url>
+			</slider>
+			<slider>
+				<id>5</id>
+				<title>Promotion|Movie</title>
+				<alt>Please visit the all new movie section. You can get movie info and view movie specific trailers.</alt>
+				<img>home/movie.jpg</img>
+				<url>
+					<external>0</external>
+					<link>movie</link>
+				</url>
+			</slider>
+			<slider>
+				<id>6</id>
+				<title>Promotion|Contact Me</title>
+				<alt>Please reach me out. Do share your views about integration &amp; further enhancements.</alt>
+				<img>home/contact.jpg</img>
+				<url>
+					<external>0</external>
+					<link>contactme</link>
+				</url>
+			</slider>
+		</promotion>
+		<general>
+			<slider>
+				<id>1</id>
+				<title>Gadgets|Apple iPad 2</title>
+				<alt>Apple is back with iPad 2. Thinner. Lighter. Faster. FaceTime. Smart Covers. 10-hour battery.</alt>
+				<img>home/1.jpg</img>
+				<url>
+					<external>1</external>
+					<link>http://www.apple.com/</link>
+				</url>
+			</slider>
+			<slider>
+				<id>2</id>
+				<title>Gadgets|Razer Deathadder</title>
+				<alt>Razer launches Deathadder black edition. Black is back.</alt>
+				<img>home/2.jpg</img>
+				<url>
+					<external>1</external>
+					<link>http://www.razerzone.com/</link>
+				</url>
+			</slider>
+			<slider>
+				<id>3</id>
+				<title>Gadgets|Razer Orca</title>
+				<alt>Sound never looked so Good.</alt>
+				<img>home/orca.jpg</img>
+				<url>
+					<external>1</external>
+					<link>http://store.razerzone.com/store/razerusa/en_US/pd/productID.201805300/categoryId.48266200</link>
+				</url>
+			</slider>
+			<slider>
+				<id>4</id>
+				<title>Movies|Transformers 2</title>
+				<alt>Battle: Los Angeles set to release on 03.11.2011. Its gonna be a epic battle.</alt>
+				<img>home/4.jpg</img>
+				<url>
+					<external>1</external>
+					<link>http://www.transformersmovie.com/</link>
+				</url>
+			</slider>
+			<slider>
+				<id>5</id>
+				<title>Gadgets|Motorola Xoom</title>
+				<alt>The first Android 3.0 tablet arrives to challenge the iPad 2. Motorola Xoom is finally here.</alt>
+				<img>home/5.jpg</img>
+				<url>
+					<external>1</external>
+					<link>http://www.motorola.com/Consumers/US-EN/Consumer-Product-and-Services/Tablets/ci.MOTOROLA-XOOM-US-EN.overview</link>
+				</url>
+			</slider>
+			<slider>
+				<id>6</id>
+				<title>Gadgets|Razer Switchblade</title>
+				<alt>Razer recently introduced Switch Blade concept design. It surely is gonna be revolution in gaming.</alt>
+				<img>home/6.jpg</img>
+				<url>
+					<external>1</external>
+					<link>http://www2.razerzone.com/switchblade/</link>
+				</url>
+			</slider>
+			<slider>
+				<id>7</id>
+				<title>Gadgets|Motorola Atrix</title>
+				<alt>Motorola officially announced its new android smartphone Motorola Atrix 4G Android. Its gonna be one heck of a phone.</alt>
+				<img>home/7.png</img>
+				<url>
+					<external>1</external>
+					<link>http://www.motorola.com/Consumers/US-EN/Consumer-Product-and-Services/Mobile-Phones/Motorola-ATRIX-US-EN</link>
+				</url>
+			</slider>
+		</general>
+	</home>
+</sliders>

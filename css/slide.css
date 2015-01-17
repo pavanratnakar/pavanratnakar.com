@@ -1,0 +1,58 @@
+/***** clearfix *****/
+.clear {clear: both;height: 0;line-height: 0;}
+.clearfix:after {panelContent: ".";display: block;height: 0;clear: both;visibility: hidden;}
+.clearfix {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
+.clearfix {height: 1%;}
+.clearfix {display: block;}
+/* Panel Tab/button */
+.tab {background: url(../images/navigation/tab_b.png) repeat-x 0 0;height: 42px;position: relative;top: 0;z-index: 999;}
+.tab ul.login {display: block;position: relative;float: right;clear: right;height: 42px;width: auto;font-weight: bold;line-height: 42px;margin: 0;right: 150px;color: white;font-size: 80%;text-align: center;}
+.tab ul.login li.left {background: url(../images/navigation/tab_l.png) no-repeat left 0;height: 42px;width: 30px;padding: 0;margin: 0;	display: block;float: left;}
+.tab ul.login li.right {background: url(../images/navigation/tab_r.png) no-repeat left 0;height: 42px;width: 30px;padding: 0;margin: 0;display: block;float: left;}
+.tab ul.login li {text-align: left;padding: 0 6px;display: block;float: left;height: 42px;background: url(../images/navigation/tab_m.png) repeat-x 0 0;}
+.tab ul.login li a {color: #15ADFF;}
+.tab ul.login li a:hover {color: white;}
+.tab .sep {color:#414141}
+.tab a.open, .tab a.close {height: 20px;line-height: 20px !important;padding-left: 30px !important;cursor: pointer;display: block;width: 100px;position: relative;top: 11px;}
+/* sliding panel */
+#toppanel {position: absolute;top: 0;width: 100%;z-index: 999;text-align: center;margin-left: auto;margin-right: auto;}
+#panel {width: 100%;height: 270px;color: #999999;background: #272727;overflow: hidden;position: relative;z-index: 3;display: none;}
+#panel h1 {font-size: 1.6em;padding: 5px 0 10px;margin: 0;color: white;}
+#panel h2{margin: 0;color: white;}
+#panel h3{margin: 0;color: white;font-size:1.1em;padding:10px 0 5px 0;}
+#panel p {margin: 5px 0;padding: 0;}
+#panel .panelContent {width: 960px;margin: 0 auto;padding-top: 15px;text-align: left;font-size: 0.85em;}
+#panel .panelContent .leftContainer {width: 280px;float: left;padding: 0 15px;border-left: 1px solid #333;}
+#panel .panelContent  #personalDetails{margin:10px 0 0 0;}
+#panel .panelContent form {margin: 0 0 10px 0;}
+#panel .panelContent label {float: left;clear: both;width: 65px;display: block;font-size:1.1em;padding-top:5px;}
+#panel .panelContent label.radio{width: 120px;}
+#panel .panelContent input.field {border: 1px #1A1A1A solid;background: #414141;margin-top: 5px;width:191px;height: 13px;font-size:1em;padding:3px;line-height:1em;color:white;}
+#panel .panelContent select {border: 1px #1A1A1A solid;background: #414141;margin-top: 4px;width: 191px;height: 22px;font-size:1.1em;padding:3px 0 3px 0;color:white;}
+#panel .panelContent select#sexSelect{width:85px;}
+#panel .panelContent select#dobDay{width:45px;}
+#panel .panelContent select#dobMonth{width:80px;}
+#panel .panelContent select#dobYear{width:50px;}
+#panel .panelContent span.label{color: white;font-size: 1em;margin: 0;text-shadow: 0 0 1px #FFFFFF;width:50px;padding:0;margin:0;}
+#panel input.field.error,#panel select.error,#panel textarea.error{border-color: #CC3366 !important;border-style: dotted dotted dotted;border-width: 1px 1px 1px;}
+#panel input:focus.field,#panel select:focus,#panel textarea:focus {border-color: #565656 #4D4D4D #4D4D4D;border: 1px solid #4D4D4D;border-style: solid;border-width: 1px;color:white;}
+.checked{line-height:0;font-size:0 !important;padding-top:0px !important;clear:none !important;}
+#panel .panelContent ul{margin:0 0 0 20px;}
+/* BUTTONS */
+/* Login and Register buttons */
+#panel .panelContent input.bt_login,
+#panel .panelContent input.bt_register {display: block;float: left;height: 24px;text-align: center;cursor: pointer;border: none;font-weight: bold;margin: 10px 0;}
+#ui-datepicker-div{z-index:999 !important;}
+#panel .lost-pwd {display: block;float:left;clear: right;padding: 15px 5px 0;font-size: 0.95em;text-decoration: underline;}
+/* BUTTONS */
+/* Login and Register buttons */
+#panel .panelContent input.bt_login,
+#panel .panelContent input.bt_register {text-align: center;cursor: pointer;font-weight: bold;margin: 10px 0;font-size:1em;}
+#panel .panelContent input.bt_login {width: 74px;}
+#panel .panelContent input.bt_register {width: 94px;}
+#registerForm .password-meter {padding-right:25px;}
+#panel  #otherLoginContainer{padding-top: 5px;}

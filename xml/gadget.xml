@@ -1,0 +1,107 @@
+<?xml version='1.0' standalone='yes'?>
+<gadgets>
+	<gadget>
+		<id>1</id>
+		<title>Motorola Xoom</title>
+		<video>http://www.youtube.com/watch?v=D7zheLybA-Q</video>
+		<description>
+			Powered by a dual-core processor and Android 3.0 (Honeycomb), its 10.1-inch display is perfect for all media - including Adobe Flash.
+		</description>
+	</gadget>
+	<gadget>
+		<id>2</id>
+		<title>Sony PlayStation3</title>
+		<video>http://www.youtube.com/watch?v=R_Zz_7FLQ4s</video>
+		<description>
+			The PlayStation3 system gives you more of what you want -More memory, better quality visuals, tons of games
+		</description>
+	</gadget>
+	<gadget>
+		<id>3</id>
+		<title>Motorola Atrix 4G</title>
+		<video>http://www.youtube.com/watch?v=F8sN3DnKaKM</video>
+		<description>
+			The new MOTOROLA ATRIX 4G is a dual-core smartphone with online computer power.
+		</description>
+	</gadget>
+	<gadget>
+		<id>4</id>
+		<title>Alienware M15x</title>
+		<video>http://www.youtube.com/watch?v=uWbpWHOIiAs</video>
+		<description>
+			Take control of the game once and for all with the Alienware M15x, the universe's most powerful 15 inch gaming laptop.
+		</description>
+	</gadget>
+	<gadget>
+		<id>5</id>
+		<title>Razer Ferox</title>
+		<video>http://www.youtube.com/watch?v=_wtXMMp93eU</video>
+		<description>
+			The Razer Ferox is a portable, mini stereo speaker set that holds true to the saying.
+		</description>
+	</gadget>
+	<gadget>
+		<id>6</id>
+		<title>Razer Megalodon</title>
+		<video>http://www.youtube.com/watch?v=44m12jAw9FI</video>
+		<description>
+			Utilizing next generation HRTF technologies &amp; a superb DSP, the Razer Megalodon is the most advanced audio headset of its kind.
+		</description>
+	</gadget>
+	<gadget>
+		<id>7</id>
+		<title>Canon Rebel T2i</title>
+		<video>http://www.youtube.com/watch?v=C2VbOtr8-58</video>
+		<description>
+			Canon's Rebel T2i is an incredible camera. It takes fantastic photos and video for the price. It's a camera you can grow with.
+		</description>
+	</gadget>
+	<gadget>
+		<id>8</id>
+		<title>Razer Deathadder</title>
+		<video>http://www.youtube.com/watch?v=kjwfnRVKYDY</video>
+		<description>
+			The Razer DeathAdder is the weapon of choice for gamers seeking a combination of comfort and unbridled gaming precision.
+		</description>
+	</gadget>
+	<gadget>
+		<id>9</id>
+		<title>Samsung Galaxy S2</title>
+		<video>http://www.youtube.com/watch?v=344nEC9C90A</video>
+		<description>
+			With its dual-core CPU, the Samsung Galaxy S II is every inch the 'super-phone'. Possibly, best Android phone ever made till date?
+		</description>
+	</gadget>
+	<gadget>
+		<id>10</id>
+		<title>LG Optimus One</title>
+		<video>http://www.youtube.com/watch?v=Vyt1IjdDGu4</video>
+		<description>
+			It offers a super combination of price and performance which makes it great value for money. Gingerbread update arriving soon.
+		</description>
+	</gadget>
+	<gadget>
+		<id>11</id>
+		<title>HTC Desire HD</title>
+		<video>http://www.youtube.com/watch?v=QjMGAXEHrRwg</video>
+		<description>
+			The Desire HD has every feature you could ever want, performance as fast as you'll ever need, effortless usability.
+		</description>
+	</gadget>
+	<gadget>
+		<id>12</id>
+		<title>Razer Orca</title>
+		<video>http://www.youtube.com/watch?v=mc4AKAZOMfI</video>
+		<description>
+			Whether you are taunting your gaming opponent or just tuning into music, Razer Orca provides comfort while keeping your sound precise.
+		</description>
+	</gadget>
+	<gadget>
+		<id>13</id>
+		<title>Razer Switchblade</title>
+		<video>http://www.youtube.com/watch?v=UiQ0AnlfBu4</video>
+		<description>
+			Gaming Netbook of the future, or bizarre concept device? Check out the Razer Switchblade and decide for yourself.
+		</description>
+	</gadget>
+</gadgets>
