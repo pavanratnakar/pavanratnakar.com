@@ -1,1 +1,0 @@
-<div id="ps_overlay" class="ps_overlay" style="display:none;"></div><a id="ps_close" class="ps_close" style="display:none;"></a><div id="ps_container" class="ps_container" style="display:none;">	<a id="ps_next_photo" class="ps_next_photo" style="display:none;"></a></div>

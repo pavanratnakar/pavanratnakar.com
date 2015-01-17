@@ -1,8 +1,0 @@
-User-agent: * 
-Disallow: /css/
-Disallow: /class/
-Disallow: /include/
-Disallow: /psd/
-Disallow: /themes/
-Disallow: /vidteq/
-Disallow: /vidteq/

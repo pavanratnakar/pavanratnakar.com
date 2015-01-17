@@ -1,2 +1,0 @@
-[05-Apr-2012 03:43:48] PHP Warning:  include_once(../plugins/phpmailer/class.phpmailer.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/pavanrat/public_html/demo/class/mailClass.php on line 3
-[05-Apr-2012 03:43:48] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../plugins/phpmailer/class.phpmailer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pavanrat/public_html/demo/class/mailClass.php on line 3
