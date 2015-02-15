@@ -48,6 +48,9 @@ echo $pageController->printHeader();
                                 <li>
                                     <a href="http://www.pavanratnakar.com/hacks/threeyearsyahoo" title="Three Years at Yahoo">Three Years at Yahoo</a>
                                 </li>
+                                <li>
+                                    <a href="http://www.pavanratnakar.com/hacks/appwithoutframework" title="Single Page App without any Framework">Single Page App without any Framework</a>
+                                </li>
                             </ul>
                         </div>
                     </div>
